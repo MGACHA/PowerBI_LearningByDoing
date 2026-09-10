@@ -1,3 +1,7 @@
+## How to create dynamic title:
+![DynamicTitle](images/2/DynamicTitle.png)
+
+
 1. Create the parameter as a numeric range:
 ![Parameter](images/2/CreateParameter.png)
 
