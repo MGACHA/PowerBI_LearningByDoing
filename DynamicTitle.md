@@ -2,6 +2,27 @@
 ![DynamicTitle](images/2/DynamicTitle.png)
 
 
+### Power BI Dynamic Chart Titles
+A chart title should tell the story behind the data - especially when users change slicer selections.
+
+In my latest short Power BI video, I show how to create a dynamic visual title that updates automatically based on the selected Top N value and region.
+
+For example, the title can change to:
+
+Top 3 Products in North
+
+Top 5 Products across All Regions
+
+All Products in South
+
+I used SELECTEDVALUE, IF, and CONTAINSSTRING in DAX to capture slicer selections, handle blank values, and return a clear, user-friendly title.
+
+The video showing how I created the parameter and dynamic Top N slicer is available here:
+
+Do you use dynamic titles in your Power BI reports, or do you still rely on static chart headings?
+
+#PowerBI #DAX #DataVisualisation #BusinessIntelligence #PowerBICommunity #DataAnalytics #DashboardDesign #DataStorytelling #MicrosoftFabric
+
 1. Create the parameter as a numeric range:
 ![Parameter](images/2/CreateParameter.png)
 
