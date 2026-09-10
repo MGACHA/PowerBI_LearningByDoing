@@ -1,6 +1,7 @@
 ## How to create dynamic title:
 ![DynamicTitle](images/2/DynamicTitle.png)
 
+YouTube : ([video](https://www.youtube.com/watch?v=bK9jUUKHe_k))
 
 ### Power BI Dynamic Chart Titles
 A chart title should tell the story behind the data - especially when users change slicer selections.
