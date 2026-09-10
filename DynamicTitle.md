@@ -1,15 +1,15 @@
 1. Create the parameter as a numeric range:
-![Parameter](images/CreateParameter.png)
+![Parameter](images/2/CreateParameter.png)
 
 2. Add a column to a table:
 ``` dax
 ParName = "Top" & TopN'[TopN]
 ```
 
-![RangeColumn](images/ParameterNewColumn.png)
+![RangeColumn](images/2/ParameterNewColumn.png)
 
 4. Create a Measure:
-![CreateMeasure](images/CreateMeasure.png)
+![CreateMeasure](images/2/CreateMeasure.png)
 
 ``` dax
 Dynamic Visual Title = 
