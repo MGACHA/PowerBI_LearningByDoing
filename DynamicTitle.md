@@ -1,10 +1,17 @@
 1. Create the parameter as a numeric range:
+![Parameter](images/CreateParameter.png)
 
 2. Add a column to a table:
+``` dax
+ParName = "Top" & TopN'[TopN]
+```
 
-3. Create a Measure:
+![RangeColumn](images/ParameterNewColumn.png)
 
--- dax
+4. Create a Measure:
+![CreateMeasure](images/CreateMeasure.png)
+
+``` dax
 Dynamic Visual Title = 
 -- 1. Get Selected Top N Value
 VAR SelectedTop = SELECTEDVALUE('TopN'[TopN])
@@ -24,4 +31,4 @@ VAR RegionText =
     )
 RETURN CleanTop & " Product " & RegionText
 
---
+```
