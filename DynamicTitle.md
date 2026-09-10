@@ -1,5 +1,5 @@
 1. Create the parameter as a numeric range:
-![Parameter](images/2/CreateParameter.png)
+![Parameter](mages/2/CreateParameter.png)
 
 2. Add a column to a table:
 ``` dax
