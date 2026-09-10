@@ -1,7 +1,11 @@
 ## How to create a dynamic slicer:
 
 ![Dynamic Slicer](images/2/DynamicSlicer.png)
+
+
 ([YT video](https://www.youtube.com/watch?v=8nSuExlXm48&list=PLS9G9TidSErwfNpiBu6osvDg0H1cIzR0p&index=2))
+
+
 ## Power BI Top N Bar Chart: Interactive Slicer
 How can you make a Power BI bar chart instantly highlight your best-performing products?
 
