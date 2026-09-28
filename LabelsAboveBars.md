@@ -11,7 +11,7 @@ As a result:
 - Chart readability decreases
 
 ### Before
-![Before](images/3/fromtislabel.png)
+![Before](images/3/fromthislabel.png)
 
 
 In the example above, several product names are cut off, making it difficult to identify products quickly.
